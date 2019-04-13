@@ -1,3 +1,3 @@
 # acristerna.github.io
 
-Website created using HTML/CSS
+Personal website created using HTML/CSS
