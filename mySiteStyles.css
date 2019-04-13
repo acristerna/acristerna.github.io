@@ -1,0 +1,182 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Frank Ruhl Libre', serif;
+  color: #242B3B;
+  background-color: #fff4e3;
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Homemade Apple', cursive;
+  color: #242B3B;
+  font-size: 500%;
+}
+
+h2 {
+  font-family: 'Poppins', sans-serif;
+  padding-bottom: 10px;
+  color: #242B3B;
+  font-size: 2em;
+}
+
+h3, a {
+  font-family: 'Poppins', sans-serif;
+  color: #ffa45c;
+}
+
+p {
+    line-height: 2;
+    color: #242B3B;
+    font-size: 18px;
+}
+
+hr {
+  border: dotted #242B3B 6px;
+  border-bottom: none;
+  margin: 70px auto;
+  width: 4%;
+}
+
+a {
+  color: #ffa45c;
+  font-family: 'Poppins', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #fff4e3;
+}
+
+.name {
+position: relative;
+top: 100px;
+}
+
+.engineer {
+  position: relative;
+  top: 48px;
+  font-weight: bold;
+  font-size: 24px;
+  color: #242B3B;
+}
+
+.top-container {
+  background-color: #ffcdab;
+  position: relative;
+  height:755px;
+}
+
+.profilePhoto {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.middle-container {
+  margin: 100px 0;
+  background-color: #fff4e3;
+}
+
+.bottom-container {
+  margin: 100px 0 0 0;
+  background-color: #ffcdab;
+  padding: 30px 0 10px;
+}
+
+.top-sun {
+  position: absolute;
+  height:200px;
+  width: 200px;
+  right: 400px;
+  bottom: 300px;
+}
+
+.skull {
+  height: 200px;
+  width: 200px;
+  position: relative;
+  top: 287px;
+
+}
+.intro-paragraph {
+  margin: auto;
+  width:30%;
+  font-size: 18px;
+  color: #242B3B;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 45px auto 75px auto;
+  text-align: left;
+}
+
+.java-img {
+  width: 22%;
+  float: left;
+  margin-right: 30px;
+}
+
+.CSS-img {
+  width: 22%;
+  float:right;
+  margin-left: 30px;
+}
+.girlJavaScript-img {
+  width: 22%;
+  float:left;
+  margin-right: 30px;
+}
+
+.gaming-img {
+  width: 22%;
+  float:right;
+  margin-left: 30px;
+}
+
+.contact-message {
+  width: 30%;
+  margin: 40px auto 60px;
+  color: #242B3B;
+}
+.contact-line {
+  width: 45%;
+  margin: 40px auto 60px;
+}
+
+.butn {
+  background: #ffc08f;
+  background-image: -webkit-linear-gradient(top, #ffc08f, #FFA45C);
+  background-image: -moz-linear-gradient(top, #ffc08f, #FFA45C);
+  background-image: -ms-linear-gradient(top, #ffc08f, #FFA45C);
+  background-image: -o-linear-gradient(top, #ffc08f, #FFA45C);
+  background-image: linear-gradient(to bottom, #ffc08f, #FFA45C);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Poppins', sans-serif;
+  color: #fff4e3;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #ffcdab;
+  background-image: -webkit-linear-gradient(top, #ffcdab, #fabe96);
+  background-image: -moz-linear-gradient(top, #ffcdab, #fabe96);
+  background-image: -ms-linear-gradient(top, #ffcdab, #fabe96);
+  background-image: -o-linear-gradient(top, #ffcdab, #fabe96);
+  background-image: linear-gradient(to bottom, #ffcdab, #fabe96);
+  text-decoration: none;
+}
+
+.copyright {
+    color: #fff4e3;
+    font: 0.75rem;
+    padding: 5px 0;
+}
